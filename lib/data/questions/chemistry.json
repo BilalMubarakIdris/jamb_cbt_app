@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "question": "What is the chemical symbol for water?",
+    "options": ["O₂", "H₂O", "CO₂", "HO"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the atomic number of Carbon?",
+    "options": ["4", "6", "8", "12"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Which of these is a noble gas?",
+    "options": ["Oxygen", "Nitrogen", "Neon", "Chlorine"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "What is the pH of a neutral solution?",
+    "options": ["0", "7", "14", "10"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "What is the molar mass of NaCl?",
+    "options": ["35.5 g/mol", "58.5 g/mol", "100 g/mol", "40 g/mol"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "What is the oxidation state of oxygen in most compounds?",
+    "options": ["+1", "-1", "-2", "+2"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "What is the chemical formula for sulfuric acid?",
+    "options": ["H₂SO₄", "H₂SO₃", "H₂S", "SO₂"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "What type of bond exists between hydrogen and oxygen in water?",
+    "options": ["Ionic", "Covalent", "Metallic", "Hydrogen"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "What is the pH of an acidic solution?",
+    "options": ["Greater than 7", "Less than 7", "Equal to 7", "Equal to 14"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "What is Avogadro's number?",
+    "options": ["6.02 × 10²²", "6.02 × 10²³", "6.02 × 10²⁴", "6.02 × 10²¹"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "What is the chemical formula for ammonia?",
+    "options": ["NH₂", "NH₃", "N₂H₄", "NH₄"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "Which element has atomic number 8?",
+    "options": ["Nitrogen", "Carbon", "Oxygen", "Fluorine"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "question": "What is the catalyst used in the Haber process?",
+    "options": ["Iron", "Nickel", "Platinum", "Copper"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "What is the molar mass of oxygen (O₂)?",
+    "options": ["16 g/mol", "32 g/mol", "48 g/mol", "64 g/mol"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "What is the chemical formula for calcium carbonate?",
+    "options": ["CaCO₂", "CaCO₃", "Ca₂CO₃", "Ca(CO₃)₂"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "What is the pH of a strongly basic solution?",
+    "options": ["0-2", "4-6", "12-14", "7"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "What does the periodic table organize elements by?",
+    "options": ["Mass", "Boiling point", "Atomic number", "Color"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "question": "What is the chemical formula for methane?",
+    "options": ["CH₂", "CH₃", "CH₄", "C₂H₆"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "question": "What is a redox reaction?",
+    "options": [
+      "Loss of electrons",
+      "Gain of electrons",
+      "Transfer of electrons",
+      "Loss of atoms"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "What is the electronegativity trend in the periodic table?",
+    "options": [
+      "Increases left to right, decreases down",
+      "Decreases left to right",
+      "Increases down",
+      "No trend"
+    ],
+    "correctAnswer": 0
+  }
+]

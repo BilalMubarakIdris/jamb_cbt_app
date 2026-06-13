@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct past tense of 'go'.",
+    "options": ["goed", "went", "gone", "going"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Which word is a synonym for 'beautiful'?",
+    "options": ["Ugly", "Pleasant", "Ordinary", "Common"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Choose the correct spelling.",
+    "options": ["Occassion", "Occasion", "Ocasion", "Occation"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Select the correct verb form: 'She _____ to the market yesterday.'",
+    "options": ["go", "goes", "went", "has gone"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "Which punctuation mark is used to end a declarative sentence?",
+    "options": ["?", "!", ".", ":"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "What is an antonym for 'beautiful'?",
+    "options": ["Pretty", "Ugly", "Handsome", "Attractive"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "Which word is spelled correctly?",
+    "options": ["Recieve", "Recieve", "Receive", "Receieve"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "What is the past tense of 'eat'?",
+    "options": ["Ate", "Eated", "Eating", "Eatten"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "Which is a compound sentence?",
+    "options": [
+      "The cat sat on the mat",
+      "The cat sat on the mat and the dog barked",
+      "While the cat sat on the mat",
+      "The cat, which sat on the mat"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "What is the plural of 'child'?",
+    "options": ["Childs", "Childes", "Children", "Childeren"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "question": "Which word is a noun?",
+    "options": ["Run", "Happy", "Dog", "Quickly"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "question": "What is the correct use of apostrophe?",
+    "options": [
+      "Its a beautiful day",
+      "It's a beautiful day",
+      "Its a beautiful day'",
+      "It's' a beautiful day"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Which sentence has correct subject-verb agreement?",
+    "options": [
+      "The students is here",
+      "The students are here",
+      "The students am here",
+      "The students be here"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "What is a preposition?",
+    "options": [
+      "A word that modifies a noun",
+      "A word that shows relationship",
+      "A word that shows action",
+      "A word that expresses emotion"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "Which word is an adjective?",
+    "options": ["Quickly", "Blue", "Run", "Beautiful"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "What does 'ambiguous' mean?",
+    "options": [
+      "Clear",
+      "Unclear or having more than one meaning",
+      "Simple",
+      "Complex"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "Which is the correct spelling?",
+    "options": ["Consciense", "Conscience", "Concience", "Consciance"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "What is the future tense of 'go'?",
+    "options": ["Goes", "Went", "Will go", "Going"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "question": "Which sentence is written in passive voice?",
+    "options": [
+      "The boy threw the ball",
+      "The ball was thrown by the boy",
+      "The ball threw the boy",
+      "The boy is throwing the ball"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "What is a conjunction?",
+    "options": [
+      "A noun",
+      "A word that joins words or clauses",
+      "An adjective",
+      "A pronoun"
+    ],
+    "correctAnswer": 1
+  }
+]

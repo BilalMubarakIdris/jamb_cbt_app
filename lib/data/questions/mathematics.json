@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is 15 × 12?",
+    "options": ["180", "190", "200", "210"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "Solve: 2x + 5 = 15",
+    "options": ["x = 3", "x = 5", "x = 7", "x = 10"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "What is the square root of 144?",
+    "options": ["10", "12", "14", "16"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Convert 0.75 to a fraction.",
+    "options": ["1/2", "2/3", "3/4", "4/5"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "What is 25% of 200?",
+    "options": ["40", "50", "60", "70"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "Find the value of 3^4.",
+    "options": ["64", "81", "27", "121"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "Solve: 3x - 8 = 4",
+    "options": ["x = 2", "x = 3", "x = 4", "x = 5"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "What is the area of a rectangle with length 12 cm and width 8 cm?",
+    "options": ["90 cm²", "96 cm²", "100 cm²", "110 cm²"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Convert 45% to a decimal.",
+    "options": ["0.45", "4.5", "45", "0.045"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "What is the perimeter of a square with side 6 cm?",
+    "options": ["18 cm", "24 cm", "30 cm", "36 cm"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "Solve: 5x + 3 = 28",
+    "options": ["x = 4", "x = 5", "x = 6", "x = 7"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "What is 20% of 150?",
+    "options": ["25", "30", "35", "40"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Find the square root of 256.",
+    "options": ["12", "14", "16", "18"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "What is 18 + 24 ÷ 6 - 5?",
+    "options": ["14", "15", "17", "19"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "Solve: 2x² = 32",
+    "options": ["x = 4", "x = 6", "x = 8", "x = 10"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "What is the volume of a cube with side 5 cm?",
+    "options": ["100 cm³", "115 cm³", "125 cm³", "150 cm³"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "Convert 7/8 to a percentage.",
+    "options": ["75%", "80%", "85%", "87.5%"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 18,
+    "question": "What is 9 × 7 - 15?",
+    "options": ["48", "51", "54", "58"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "question": "Solve: x/4 + 2 = 6",
+    "options": ["x = 12", "x = 14", "x = 16", "x = 18"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "What is the circumference of a circle with radius 7 cm?",
+    "options": ["42 cm", "44 cm", "46 cm", "48 cm"],
+    "correctAnswer": 1
+  }
+]

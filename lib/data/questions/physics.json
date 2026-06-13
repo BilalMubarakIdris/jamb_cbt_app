@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the acceleration due to gravity on Earth (approx)?",
+    "options": ["9.8 m/s²", "3.7 m/s²", "1.6 m/s²", "15 m/s²"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "What is the SI unit of force?",
+    "options": ["Joule", "Newton", "Pascal", "Watt"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is NOT a state of matter?",
+    "options": ["Solid", "Liquid", "Gas", "Wave"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 4,
+    "question": "What is the speed of light in vacuum?",
+    "options": ["3 × 10⁸ m/s", "3 × 10⁷ m/s", "3 × 10⁹ m/s", "3 × 10⁶ m/s"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Which law states that F = ma?",
+    "options": ["First Law", "Second Law", "Third Law", "Zeroth Law"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "What is the formula for kinetic energy?",
+    "options": ["KE = mgh", "KE = ½mv²", "KE = Fd", "KE = ma"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "What is the SI unit of power?",
+    "options": ["Joule", "Newton", "Watt", "Volt"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "What is frequency measured in?",
+    "options": ["Meter", "Second", "Hertz", "Newton"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "What is the refractive index of water?",
+    "options": ["1.0", "1.33", "1.5", "2.0"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "What is the SI unit of electric current?",
+    "options": ["Volt", "Ampere", "Ohm", "Coulomb"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "What is Ohm's law?",
+    "options": ["V = I/R", "V = IR", "V = R/I", "V = I + R"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "What is the SI unit of pressure?",
+    "options": ["Newton", "Joule", "Pascal", "Watt"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "question": "What is the wavelength of visible light?",
+    "options": ["100-500 nm", "400-700 nm", "200-300 nm", "800-1000 nm"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "What is the formula for work done?",
+    "options": ["W = Fd", "W = ma", "W = Fd/t", "W = mgh"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "What is the SI unit of temperature?",
+    "options": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "question": "What is the focal length of a plane mirror?",
+    "options": ["0", "∞", "1 m", "0.5 m"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "What is the SI unit of momentum?",
+    "options": ["Newton", "Joule", "kg·m/s", "Watt"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "question": "What is the SI unit of energy?",
+    "options": ["Newton", "Joule", "Watt", "Pascal"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "What happens to wavelength when frequency increases?",
+    "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "What is the relationship between pressure, volume, and temperature?",
+    "options": ["PV = nRT", "P = V × T", "V = P + T", "T = P/V"],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "question": "Which part of the cell contains genetic material?",
+    "options": ["Mitochondria", "Nucleus", "Ribosome", "Golgi apparatus"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the basic unit of life?",
+    "options": ["Atom", "Cell", "Tissue", "Organ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Which organelle is responsible for energy production?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Lysosome"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "What process do plants use to make food?",
+    "options": ["Respiration", "Photosynthesis", "Fermentation", "Digestion"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "How many chromosomes do humans have?",
+    "options": ["23", "46", "48", "50"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "What is the primary function of the cell nucleus?",
+    "options": [
+      "Energy production",
+      "Protein synthesis",
+      "DNA storage and replication",
+      "Waste removal"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "Which type of blood cell fights infections?",
+    "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma cells"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "What is the process of cell division in somatic cells called?",
+    "options": ["Meiosis", "Mitosis", "Cytokinesis", "Interphase"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Where is photosynthesis primarily carried out?",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Chloroplast",
+      "Endoplasmic reticulum"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "What is the main component of cell membrane?",
+    "options": ["Carbohydrates", "Proteins", "Phospholipids", "DNA"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "question": "What is the function of the ribosome?",
+    "options": [
+      "Energy production",
+      "Protein synthesis",
+      "DNA storage",
+      "Waste disposal"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "Which blood type is the universal donor?",
+    "options": ["A", "B", "AB", "O"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 13,
+    "question": "What is the basic unit of heredity?",
+    "options": ["Chromosome", "Gene", "Allele", "Trait"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "In the nitrogen cycle, what do bacteria do?",
+    "options": [
+      "Break down proteins",
+      "Fix nitrogen gas",
+      "Convert nitrates to water",
+      "Absorb oxygen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "What is the process by which plants lose water through leaves?",
+    "options": [
+      "Evaporation",
+      "Transpiration",
+      "Photosynthesis",
+      "Respiration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "Which hormone regulates blood glucose levels?",
+    "options": ["Adrenaline", "Thyroxine", "Insulin", "Testosterone"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "What is the study of heredity called?",
+    "options": ["Ecology", "Genetics", "Anatomy", "Physiology"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "What does ATP stand for?",
+    "options": [
+      "Amino Transfer Protein",
+      "Adenosine Triphosphate",
+      "Active Transport Pump",
+      "Anaerobic Transport Process"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "What is the main function of the kidney?",
+    "options": [
+      "Hormone production",
+      "Urine formation and filtration",
+      "Blood oxygenation",
+      "Bile production"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "Which enzyme breaks down food in the stomach?",
+    "options": ["Amylase", "Pepsin", "Lipase", "Lactase"],
+    "correctAnswer": 1
+  }
+]
